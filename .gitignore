@@ -1,0 +1,24 @@
+# Python相关
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+
+# 虚拟环境
+venv/
+env/
+.venv/
+*.egg-info
+dist/
+build/
+
+# IDE 配置文件
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 日志与数据库
+*.log
+*.sqlite3
